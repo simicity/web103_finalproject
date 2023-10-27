@@ -4,14 +4,62 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## Create the List of Tables
 
-[👉🏾👉🏾👉🏾 List each table in your diagram]
+- users
+- fridges
+- fridges_users
+- foods
+- food_categories
+- shopping_items
 
 ## Add the Entity Relationship Diagram
 
-[👉🏾👉🏾👉🏾 Include an image or images of the diagram below. You may also wish to use the following markdown syntax to outline each table, as per your preference.]
+![ERD](entity_relationship_diagram.png)
 
+### users
 | Column Name | Type | Description |
 |-------------|------|-------------|
 | id | integer | primary key |
-| name | text | name of the shoe model |
-| ... | ... | ... |
+| username | text | the name of the user |
+| email | text | the email of the user account |
+| password | text | the password of the user account |
+| created_date | date | the date the account is created |
+
+### fridges
+| Column Name | Type | Description |
+|-------------|------|-------------|
+| id | integer | the id of the user (primary key) |
+| name | text | the name of the fridge |
+| user_id | text | the manager of the fridge |
+
+### fridges_users
+| Column Name | Type | Description |
+|-------------|------|-------------|
+| user_id | integer | the id of the user (foreign key) |
+| fridge_id | integer | the id of the fridge (foreign key) |
+
+### foods
+| Column Name | Type | Description |
+|-------------|------|-------------|
+| id | integer | the id of the user (primary key) |
+| name | text | the name of the food item |
+| fridge_id | integer | the id of the fridge (foregin key) |
+| category_id | integer | the category of the food (foreign key) |
+| added_date | date | the date the food is added |
+| expiration_date | date | the expiration date of the food |
+| count | integer | the quantity of the food |
+
+### food_categories
+| Column Name | Type | Description |
+|-------------|------|-------------|
+| id | integer | the id of the user (primary key) |
+| name | text | the category of the food item |
+
+### shopping_items
+| Column Name | Type | Description |
+|-------------|------|-------------|
+| id | integer | the id of the user (primary key) |
+| name | text | the category of the food item |
+| count | integer | the quantity of the food |
+| category_id | integer | the category of the food (foreign key) |
+| user_id | integer | the id of the user (foreign key) |
+| fridge_id | integer | the id of the fridge (foreign key) |
