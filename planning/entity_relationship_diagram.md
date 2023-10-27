@@ -9,10 +9,11 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 - fridges_users
 - foods
 - food_categories
+- shopping_items
 
 ## Add the Entity Relationship Diagram
 
-![ERD](entity_relationship_diagram.jpg)
+![ERD](entity_relationship_diagram.png)
 
 ### users
 | Column Name | Type | Description |
@@ -27,7 +28,8 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 | Column Name | Type | Description |
 |-------------|------|-------------|
 | id | integer | the id of the user (primary key) |
-| name | text | the name of the shoe model |
+| name | text | the name of the fridge |
+| user_id | text | the manager of the fridge |
 
 ### fridges_users
 | Column Name | Type | Description |
@@ -51,3 +53,13 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 |-------------|------|-------------|
 | id | integer | the id of the user (primary key) |
 | name | text | the category of the food item |
+
+### shopping_items
+| Column Name | Type | Description |
+|-------------|------|-------------|
+| id | integer | the id of the user (primary key) |
+| name | text | the category of the food item |
+| count | integer | the quantity of the food |
+| category_id | integer | the category of the food (foreign key) |
+| user_id | integer | the id of the user (foreign key) |
+| fridge_id | integer | the id of the fridge (foreign key) |
