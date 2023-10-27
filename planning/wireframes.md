@@ -4,18 +4,55 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## List of Pages
 
-[👉🏾👉🏾👉🏾 List the pages you expect to have in your app, with a ⭐ next to pages you have wireframed]
+- ⭐ Landing page
+- ⭐ Sign Up
+- ⭐ Log In
+- ⭐ Dashboard
+- ⭐ Fridge overview
+- ⭐ Add Fridge
+- ⭐ Edit Fridge
+- ⭐ Add Food Items
+- ⭐ Edit Food Items
+- ⭐ Account
+- About
 
-## Wireframe 1: [page title]
+## Wireframe 1: Landing Page
 
-[👉🏾👉🏾👉🏾 include wireframe 1]
+![landing page](https://github.com/simicity/web103_finalproject/blob/milestone2-wireframes/planning/wireframe%20images/landing.jpg)
 
-## Wireframe 2: [page title]
+## Wireframe 2: Sign Up
 
-[👉🏾👉🏾👉🏾 include wireframe 2]
+![sign up](https://github.com/simicity/web103_finalproject/blob/milestone2-wireframes/planning/wireframe%20images/sign%20up.jpg)
 
-## Wireframe 3: [page title]
+## Wireframe 3: Log In
 
-[👉🏾👉🏾👉🏾 include wireframe 3]
+![log in](https://github.com/simicity/web103_finalproject/blob/milestone2-wireframes/planning/wireframe%20images/log%20in.jpg)
 
-[👉🏾👉🏾👉🏾 include more wireframes as desired]
+## Wireframe 4: Dashboard
+
+![dashboard](https://github.com/simicity/web103_finalproject/blob/milestone2-wireframes/planning/wireframe%20images/dashboard.jpg)
+
+## Wireframe 5: Fridge Overview
+
+![fridge](https://github.com/simicity/web103_finalproject/blob/milestone2-wireframes/planning/wireframe%20images/fridge.jpg)
+
+## Wireframe 6: Add Fridge
+
+![add fridge](https://github.com/simicity/web103_finalproject/blob/milestone2-wireframes/planning/wireframe%20images/add%20fridge.jpg)
+
+## Wireframe 7: Edit Fridge
+
+![edit fridge](https://github.com/simicity/web103_finalproject/blob/milestone2-wireframes/planning/wireframe%20images/edit%20fridge.jpg)
+
+## Wireframe 8: Add Food Item
+
+![add food](https://github.com/simicity/web103_finalproject/blob/milestone2-wireframes/planning/wireframe%20images/add%20food.jpg)
+
+## Wireframe 9: Edit Food Item
+
+![edit food](https://github.com/simicity/web103_finalproject/blob/milestone2-wireframes/planning/wireframe%20images/edit%20food.jpg)
+
+## Wireframe 10: Account
+
+![account](https://github.com/simicity/web103_finalproject/blob/milestone2-wireframes/planning/wireframe%20images/account.jpg)
+
