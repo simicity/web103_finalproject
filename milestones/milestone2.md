@@ -22,6 +22,8 @@ We were able to create the ERD and wireframe with the help of the resoureces on 
 
 We needed to refine the system design/functionalities to draw the ERD and wireframe, but it helped us have a clearer understanding of our project goals.
 
+It was a bit challenging to think over the system details and to strike a balance between a more practical design and a less complex implementation.
+
 ### 3. What additional support will you need in upcoming units as you continue to work on your final project?
 
 Nothing in particular.
