@@ -38,7 +38,7 @@ Fridge is the unit of food inventory. Users can create and delete fridges. Withi
 
 Food items have attributes such as count, expiration date, and category. When the food expires, the item will be highlighted. Users can also mark missing food, so the members know that they need to buy them.
 
-- Food item should have a name, count, expiration date, and category.
+- ✅Food item should have a name, count, expiration date, and category.
 - Members can create, update, and delete food items.
 - Members can mark missing food items.
 - Members can make food items invisible.
