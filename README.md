@@ -4,6 +4,8 @@ CodePath WEB103 Final Project
 
 Designed and developed by: Miho Shimizu, Jiarui Liang
 
+🔗 Link to codebase: https://github.com/simicity/foodwise
+
 🔗 Link to deployed app:
 
 ## About
@@ -18,7 +20,7 @@ You're all set to cook that favorite recipe, only to find that a crucial ingredi
 
 ## Tech Stack
 
-Frontend: React
+Frontend: React, Material UI
 
 Backend: Node.js, Express.js, PostgreSQL (Railway)
 
