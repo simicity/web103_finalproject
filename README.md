@@ -40,8 +40,8 @@ Food items have attributes such as count, expiration date, and category. When th
 
 - ✅Food item should have a name, count, expiration date, and category.
     ![food item list](https://github.com/simicity/web103_finalproject/blob/main/screenshots/food-item-list.png)
-- Members can create, update, and delete food items.
-- Members can mark missing food items.
+- ✅Members can create, update, and delete food items.
+- Members can add food items to the shopping list.
 - Members can make food items invisible.
 - Members can sort food items by expiration date.
 
@@ -65,7 +65,7 @@ Users have access to a shopping list that aggregates all missing food items to b
 
 ### Dash Board
 
-Users can create or access fridges from this page.
+✅Users can create or access fridges from this page.
 
 [gif goes here]
 
