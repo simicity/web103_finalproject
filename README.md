@@ -28,7 +28,7 @@ Backend: Node.js, Express.js, PostgreSQL (Railway)
 
 Fridge is the unit of food inventory. Users can create and delete fridges. Within each fridge, users can manage food items by adding, updating, and removing. Additionally, users can manage members to share the info with by adding and removing. 
 
-- Users can create fridges.
+- ✅Users can create fridges.
 - The user who creates the fridge becomes its manager and holds the authority to delete it.
 - Fridge should have a name and creator.
 
