@@ -32,7 +32,7 @@ Fridge is the unit of food inventory. Users can create and delete fridges. Withi
 
 - ✅Users can create fridges.
 - The user who creates the fridge becomes its manager and holds the authority to delete it.
-- Fridge should have a name and creator.
+- ✅Fridge should have a name and creator.
 
 [gif goes here]
 
