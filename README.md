@@ -34,34 +34,33 @@ Fridge is the unit of food inventory. Users can create and delete fridges. Withi
 - The user who creates the fridge becomes its manager and holds the authority to delete it.
 - ✅Fridge should have a name and creator.
 
-[gif goes here]
+![create fridges](https://github.com/simicity/web103_finalproject/blob/main/screenshots/create%20a%20fridge.gif)
 
 ### Food items
 
 Food items have attributes such as count, expiration date, and category. When the food expires, the item will be highlighted. Users can also mark missing food, so the members know that they need to buy them.
 
 - ✅Food item should have a name, count, expiration date, and category.
-    ![food item list](https://github.com/simicity/web103_finalproject/blob/main/screenshots/food-item-list.png)
 - ✅Members can create, update, and delete food items.
-- Members can add food items to the shopping list.
+- ✅Members can add food items to the shopping list.
 - Members can make food items invisible.
 - Members can sort food items by expiration date.
 
-[gif goes here]
+![food items](https://github.com/simicity/web103_finalproject/blob/main/screenshots/food%20items%20and%20shopping%20list.gif)
 
 ### Members
 
 Fridge members share the fridge info. Users can be a member of multiple fridges. 
 
-- Managers can invite and remove members.
+- ✅Managers can invite and remove members.
 
-[gif goes here]
+![members](https://github.com/simicity/web103_finalproject/blob/main/screenshots/invite%20and%20remove%20members.gif)
 
 ### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
 
 ### Shopping Lists
 
-Users have access to a shopping list that aggregates all missing food items to be bought.
+✅Users have access to a shopping list that aggregates all missing food items to be bought.
 
 [gif goes here]
 
