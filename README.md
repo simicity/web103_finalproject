@@ -6,7 +6,7 @@ Designed and developed by: Miho Shimizu, Jiarui Liang
 
 🔗 Link to codebase: https://github.com/simicity/foodwise
 
-🔗 Link to deployed app:
+🔗 Link to deployed app: https://foodwise-client.up.railway.app/
 
 ## About
 
