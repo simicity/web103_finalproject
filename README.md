@@ -72,5 +72,52 @@ Fridge members share the fridge info. Users can be a member of multiple fridges.
 
 ## Installation Instructions
 
-[instructions go here]
-9
+### 1. Clone the repository
+
+Open your terminal and run the following commands:
+
+```bash
+git clone https://github.com/simicity/foodwise.git
+cd your-repository
+```
+
+### 2. Install server dependencies
+
+```bash
+// Navigate to the server folder
+cd server
+// Install the dependencies
+npm install
+```
+
+### 3. Configure server
+
+Provision PostgreSQL on Railway and set up Google OAuth. Create the .env file that contains the following information: 
+- PGDATABASE
+- PGHOST
+- PGPASSWORD
+- PGPORT
+- PGUSER
+- GOOGLE_CLIENT_ID
+- GOOGLE_CLIENT_SECRET
+
+### 4. Start the server
+
+```bash
+npm start
+```
+
+### 5. Install client dependencies
+
+```bash
+// Navigate to the client folder
+cd ../client
+// Install the dependencies
+npm install
+```
+
+### 6. Start the client
+
+```bash
+npm run dev
+```
