@@ -31,10 +31,10 @@ Backend: Node.js, Express.js, PostgreSQL (Railway)
 Fridge is the unit of food inventory. Users can create and delete fridges. Within each fridge, users can manage food items by adding, updating, and removing. Additionally, users can manage members to share the info with by adding and removing. 
 
 - ✅Users can create fridges.
-- The user who creates the fridge becomes its manager and holds the authority to delete it.
+- ✅The user who creates the fridge becomes its manager and holds the authority to delete it.
 - ✅Fridge should have a name and creator.
 
-![create fridges](https://github.com/simicity/web103_finalproject/blob/main/screenshots/create%20a%20fridge.gif)
+![create fridges](./screenshots/create%20a%20fridge.gif)
 
 ### Food items
 
@@ -43,10 +43,9 @@ Food items have attributes such as count, expiration date, and category. When th
 - ✅Food item should have a name, count, expiration date, and category.
 - ✅Members can create, update, and delete food items.
 - ✅Members can add food items to the shopping list.
-- Members can make food items invisible.
-- Members can sort food items by expiration date.
+- ✅Members can sort food items by expiration date.
 
-![food items](https://github.com/simicity/web103_finalproject/blob/main/screenshots/food%20items%20and%20shopping%20list.gif)
+![food items](./screenshots/food%20items%20and%20shopping%20list.gif)
 
 ### Members
 
@@ -54,7 +53,7 @@ Fridge members share the fridge info. Users can be a member of multiple fridges.
 
 - ✅Managers can invite and remove members.
 
-![members](https://github.com/simicity/web103_finalproject/blob/main/screenshots/invite%20and%20remove%20members.gif)
+![members](./screenshots/invite%20and%20remove%20members.gif)
 
 ### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
 
@@ -62,13 +61,13 @@ Fridge members share the fridge info. Users can be a member of multiple fridges.
 
 ✅Users have access to a shopping list that aggregates all missing food items to be bought.
 
-[gif goes here]
+![shoppinglist](https://imgur.com/OeUunTY.gif)
 
 ### Dash Board
 
 ✅Users can create or access fridges from this page.
 
-[gif goes here]
+![dashboard](https://imgur.com/1UvIYoO.gif)
 
 ## Installation Instructions
 
