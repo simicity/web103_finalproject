@@ -83,6 +83,8 @@ Deployment and the server side user validation.
 
 We use Vite, which the lab project does not use, so it was a little challenging to figure out the deployment configurations.
 
+The user authentication and authorization feature was a bit complex, since it involved passport.js, the third-party oath, and the usage of web session. But we finally figured out how they worked.
+
 ### 3. What were some of the highlights or achievements that you are most proud of in this project?
 
 I am proud of that we were able to create a nice enough working web application within the short timeframe by following the schedule. In terms of technology, some highlights include:
@@ -97,6 +99,7 @@ Although I had the basic knowledge in web development, I learned something new a
 - How to organize the server-side code
 - Use of join tables
 - Collaboration and project management on Github
+- Deployment using railway
 
 ### 5. Looking ahead, what are your goals related to web development, and what steps do you plan to take to achieve them?
 
