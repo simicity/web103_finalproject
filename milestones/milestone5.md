@@ -77,20 +77,27 @@ Complete the checklist below detailing each baseline, custom, and stretch featur
 
 ### 1. What went well during this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+Deployment and the server side user validation.
 
 ### 2. What were some challenges your group faced in this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+We use Vite, which the lab project does not use, so it was a little challenging to figure out the deployment configurations.
 
 ### 3. What were some of the highlights or achievements that you are most proud of in this project?
 
-[👉🏾👉🏾👉🏾 your answer here]
+I am proud of that we were able to create a nice enough working web application within the short timeframe by following the schedule. In terms of technology, some highlights include:
+- Used join tables effectively to achieve functionalities of the "user" and "fridge" features
+- Implemented user authentication and authorization, namely, only the manager of the fridge can user certain functionalities like fridge deletion
+- User invite/removal function was a little tricky because we needed an unique attribute that allows users to find other users, but we found a way to do it by using email addresses
 
 ### 4. Reflecting on your web development journey so far, how have you grown since the beginning of the course?
 
-[👉🏾👉🏾👉🏾 your answer here]
+Although I had the basic knowledge in web development, I learned something new and I was not sure, such as:
+- Creating user stories
+- How to organize the server-side code
+- Use of join tables
+- Collaboration and project management on Github
 
 ### 5. Looking ahead, what are your goals related to web development, and what steps do you plan to take to achieve them?
 
-[👉🏾👉🏾👉🏾 your answer here]
+I would like to deepen my knowledge and delve into some areas such as user authentication (JWT) and other server side technologies. I will get hands-on by extending this project or designing another project utilizing the technology I want to learn.
